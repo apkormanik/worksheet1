@@ -1,0 +1,362 @@
+    1  ls
+    2  Desktop
+    3  ds
+    4  ls
+    5  cd
+    6  cd
+    7  cd
+    8  ls
+    9  cd ~/Desktop
+   10  ls
+   11  cd ~/Desktop
+   12  jar tvf Homework1.jar
+   13  cd~/Desktop
+   14  cd
+   15  jar tvf Homework2.jar
+   16  ls
+   17  cd~/Desktop
+   18  cd~\Desktop
+   19  Desktop
+   20  cd~Desktop
+   21  cd ~/Desktop
+   22  jar tvf Homework2.jar
+   23  cd ~/Desktop
+   24  jar tvf Homework3.jar
+   25  cd ~/Desktop
+   26  jar tvf Homework4.jar
+   27  cd ~/Desktoop
+   28  cd ~/Desktop
+   29  jar tvf Homework5.jar
+   30  cd ~/Desktop
+   31  jar tvf Homework7.jar
+   32  cd ~/Desktop
+   33  jar tvf Homework*.jar
+   34  jar tvf Homework8.jar
+   35  /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java ; exit;
+   36  bash -c 'clear; cd "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/"; "/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/DotNetCore.Debugger/Adapter/vsdbg" --interpreter=vscode --connection=/var/folders/z3/hvt148nj6gb8gsyf_5nf7xgh0000gn/T/CoreFxPipe_vsdbg-ui-8151d383867d48f7a0827f25f6be0138; echo $? > /var/folders/z3/hvt148nj6gb8gsyf_5nf7xgh0000gn/T/tmp792b429.tmp; echo; read -p "Press any key to continue..." -n1; exit'; exit
+   37  cd desktop
+   38  git clone https://github.com/natewong1313/bird-bot
+   39  cd bird-bot
+   40  sudo pip3 install -r requirements.txt
+   41  python3 app.py
+   42  /Volumes/VirtualBox/VirtualBox_Uninstall.tool ; exit;
+   43  /Users/aidankormanik/Downloads/of_v0.11.0_osx_release/projectGenerator/_runMeFirst.command ; exit;
+   44  xcode-select --install
+   45  clion
+   46  sudo snap install clion
+   47  sudo snap install --classic clion
+   48  xcode-select --install
+   49  Software Update
+   50  ps
+   51  $ ./main.c test.dat
+   52  $ rm test.dat
+   53  /Users/aidankormanik/Documents/CS-149/CS-149/main.c test.dat
+   54  /Users/aidankormanik/Desktop/main\ copy.c test.dat
+   55  /Users/aidankormanik/Documents/Spring\ Semester\ ‘21/CS\ 116B/of_v0.11.0_osx_release/projectGenerator/_runMeFirst.command ; exit;
+   56  $ git clone --recursive https://github.com/mmp/pbrt-v3/
+   57  $ git clone --recursive https://github.com/mmp/pbrt-v3/
+   58  git clone git://git.pbrt.org/pbrt-v3-scenes
+   59  https://openframeworks.cc/setup/xcode/
+   60  xcode-select --install
+   61  /Users/aidankormanik/Documents/Fall\ Semester\ \'20/CS\ 116A/of_v0.11.0_osx_release/projectGenerator/_runMeFirst.command ; exit;
+   62  /Users/aidankormanik/Desktop/pbrt-v3/build/pbrt ; exit;
+   63  /Users/aidankormanik/Desktop/pbrt-v3/build/pbrt_test ; exit;
+   64  /Users/aidankormanik/Desktop/pbrt-v3/build/cyhair2pbrt ; exit;
+   65  /Users/aidankormanik/Desktop/pbrt-v3/build/imgtool ; exit;
+   66  /Users/aidankormanik/Desktop/pbrt-v3/build/obj2pbrt ; exit;
+   67  /Users/aidankormanik/Desktop/pbrt-v3/build/bsdftest ; exit;
+   68  /Users/aidankormanik/Desktop/pbrt-v3/build/pbrt_test ; exit;
+   69  /Users/aidankormanik/Desktop/pbrt-v3/build/pbrt ; exit;
+   70  which pbrt
+   71  pwd
+   72  pbrt --version
+   73  ./lighting.pbrt
+   74  pbrt-vs
+   75  pbrt-v3
+   76  cd desktop
+   77  cd pbrt-v3
+   78  ls
+   79  dc scenes
+   80  ls
+   81  cd scenes
+   82  ls
+   83  ./killeroo-simple.pbrt
+   84  pwd
+   85  cd ..
+   86  cd build
+   87  ls
+   88  cd PBRT-V3.xcodeproj
+   89  -configuration "Release"
+   90  cd Desktop
+   91  git clone --recursive https://github.com/mmp/pbrt-v3/
+   92  pwd
+   93  cd pbrt-v3
+   94  mkdir build
+   95  cd build
+   96  pwd
+   97  cmake /Users/aidankormanik/Desktop/pbrt-v3
+   98  make /Users/aidankormanik/Desktop/pbrt-v3
+   99   PATH="/Applications/CMake.app/Contents/bin":"$PATH"
+  100  cmake 
+  101  /Applications/CMake.app/Contents/bin/cmake-gui
+  102  PATH="/Applications/CMake.app/Contents/bin":"$PATH"
+  103  sudo "/Applications/CMake.app/Contents/bin/cmake-gui" --install
+  104  /Users/aidankormanik/Desktop/pbrt-v3/build/pbrt ; exit;
+  105  /Users/aidankormanik/Desktop/pbrt-v3/build/obj2pbrt ; exit;
+  106  /Users/aidankormanik/Desktop/pbrt-v3/build/pbrt_test ; exit;
+  107  /Users/aidankormanik/Desktop/pbrt-v3/build/pbrt ; exit;
+  108  /Users/aidankormanik/Desktop/pbrt-v3/build/pbrt ; exit;
+  109  pwd
+  110  cd pbrt-v3
+  111  cd desktop
+  112  cd pbrt-v3
+  113  cd build
+  114  pwd
+  115  cmake /Users/aidankormanik/desktop/pbrt-v3
+  116  ls
+  117  cd Makefile
+  118  make
+  119  cmake -G Xcode /Users/aidankormanik/desktop/pbrt-v3
+  120  cmake -G Xcode /Users/aidankormanik/desktop/pbrt-v3
+  121  src/core/pbrt.h
+  122  cd pbrt-v2/src && maks
+  123  cd ..
+  124  cd ..
+  125  cd pbrt-v3/src && make
+  126  cd bin
+  127  cd build
+  128  pwd
+  129  cd ..
+  130  cd build
+  131  cd ..
+  132  cd scenes/killeroo-simple.pbrt
+  133  open pbrt.exr
+  134  cd bin && pbrt ../../scenes/killeroo-simple.pbrt
+  135  ./path/to/pbrt
+  136  pwd
+  137  /Users/aidankormanik/Downloads/pbrt-v3-scenes/hair/curly-hair.pbrt 
+  138  xcodebuild -project "PBRT-V3.xcodeproj" -configuration "Release"
+  139  /Users/aidankormanik/Desktop/pbrt-v3/build/Release/pbrt ; exit;
+  140  /Users/aidankormanik/Desktop/pbrt-v3/build/Release/pbrt ; exit;
+  141  xcodebuild -project "PBRT-V3.xcodeproj" -configuration "Release"
+  142  xcodebuild -project "PBRT-V3.xcodeproj" -confirguration "Release"
+  143  cd desktop
+  144  cd pbrt-v3
+  145  xcodebuild -project "PBRT-V3.xcodeproj" -configuration "Release"
+  146  xcodebuild -project "PBRT-V3.xcodeproj" -configuration Release
+  147  pwd
+  148  cd build
+  149  xcodebuild -project "PBRT-V3.xcodeproj" -configuration Release
+  150  /Users/aidankormanik/Desktop/pbrt-v3/build/Release/pbrt /Users/aidankormanik/Desktop/pbrt-v3/scenes/killeroo-simple.pbrt
+  151  /Users/aidankormanik/Desktop/pbrt-v3/scene
+  152  /Users/aidankormanik/Desktop/pbrt-v3/build/Release/pbrt /Users/aidankormanik/Downloads/lighting.pbrt
+  153  /Users/aidankormanik/Desktop/pbrt-v3/build/Release/pbrt /Users/aidankormanik/Downloads/lighting.pbrt
+  154  /Users/aidankormanik/Desktop/pbrt-v3/build/Release/pbrt /Users/aidankormanik/Downloads/lighting.pbrt
+  155  /Users/aidankormanik/Desktop/pbrt-v3/build/Release/pbrt /Users/aidankormanik/Downloads/lighting.pbrt
+  156  /Users/aidankormanik/Desktop/pbrt-v3/build/Release/pbrt /Users/aidankormanik/Downloads/lighting.pbrt
+  157  /Users/aidankormanik/Desktop/pbrt-v3/build/Release/pbrt /Users/aidankormanik/Downloads/lighting.pbrt
+  158  /Users/aidankormanik/Desktop/pbrt-v3/build/Release/pbrt /Users/aidankormanik/Downloads/lighting.pbrt
+  159  /Users/aidankormanik/Desktop/pbrt-v3/build/Release/pbrt /Users/aidankormanik/Downloads/lighting.pbrt
+  160  /Users/aidankormanik/Desktop/pbrt-v3/build/Release/pbrt /Users/aidankormanik/Downloads/lighting.pbrt
+  161  /Users/aidankormanik/Desktop/pbrt-v3/build/Release/pbrt /Users/aidankormanik/Downloads/lighting.pbrt
+  162  /Users/aidankormanik/Desktop/pbrt-v3/build/Release/pbrt /Users/aidankormanik/Downloads/lighting.pbrt
+  163  /Users/aidankormanik/Desktop/pbrt-v3/build/Release/pbrt /Users/aidankormanik/Downloads/lighting.pbrt
+  164  /Users/aidankormanik/Desktop/pbrt-v3/build/Release/pbrt /Users/aidankormanik/Downloads/lighting.pbrt
+  165  /Users/aidankormanik/Desktop/pbrt-v3/build/Release/pbrt /Users/aidankormanik/Downloads/lighting.pbrt
+  166  /Users/aidankormanik/Desktop/pbrt-v3/build/Release/pbrt /Users/aidankormanik/Downloads/lighting.pbrt
+  167  /Users/aidankormanik/Desktop/pbrt-v3/build/Release/pbrt /Users/aidankormanik/Downloads/lighting.pbrt
+  168  /Users/aidankormanik/Desktop/pbrt-v3/build/Release/pbrt /Users/aidankormanik/Downloads/lighting.pbrt
+  169  /Users/aidankormanik/Desktop/pbrt-v3/build/Release/pbrt /Users/aidankormanik/Downloads/lighting.pbrt
+  170  /Users/aidankormanik/Desktop/pbrt-v3/build/Release/pbrt /Users/aidankormanik/Downloads/lighting.pbrt
+  171  /Users/aidankormanik/Desktop/pbrt-v3/build/Release/pbrt /Users/aidankormanik/Downloads/lighting.pbrt
+  172  /Users/aidankormanik/Desktop/pbrt-v3/build/Release/pbrt /Users/aidankormanik/Downloads/lighting.pbrt
+  173  /Users/aidankormanik/Desktop/pbrt-v3/build/Release/pbrt /Users/aidankormanik/Downloads/lighting.pbrt
+  174  /Users/aidankormanik/Desktop/pbrt-v3/build/Release/pbrt /Users/aidankormanik/Downloads/lighting.pbrt
+  175  /Users/aidankormanik/Desktop/pbrt-v3/build/Release/obj2pbrt /Users/aidankormanik/Desktop/Vase.obj
+  176  /Users/aidankormanik/Desktop/pbrt-v3/build/Release/obj2pbrt /Users/aidankormanik/Desktop/Vase.obj /Users/aidankormanik/Desktop/Vase.pbrt
+  177  /Users/aidankormanik/Desktop/pbrt-v3/build/Release/pbrt /Users/aidankormanik/Downloads/lighting.pbrt
+  178  /Users/aidankormanik/Desktop/pbrt-v3/build/Release/pbrt /Users/aidankormanik/Downloads/lighting.pbrt
+  179  /Users/aidankormanik/Desktop/pbrt-v3/build/Release/pbrt /Users/aidankormanik/Downloads/lighting.pbrt
+  180  /Users/aidankormanik/Desktop/pbrt-v3/build/Release/pbrt /Users/aidankormanik/Downloads/lighting.pbrt
+  181  Texture "grid" "color" "imagemap" "string filename" ["textures/lines.
+  182  kdfls
+  183  sdcd
+  184  /Users/aidankormanik/Desktop/pbrt-v3/build/Release/pbrt /Users/aidankormanik/Downloads/lighting.pbrt
+  185             /Users/aidankormanik/Desktop/pbrt-v3/build/Release/pbrt /Users/aidankormanik/Downloads/lighting.pbrt
+  186  Material "matte" "color Kd" [.2 .2 .2]
+  187  AttributeBegin
+  188  Translate 0 -0.2 0
+  189  Rotate 180 0 1 0
+  190  Scale 0.1 0.1 0.1
+  191  Include "Vase.pbrt"
+  192  AttributeEnd
+  193  /Users/aidankormanik/Desktop/pbrt-v3/build/Release/pbrt /Users/aidankormanik/Downloads/lighting.pbrt
+  194  /Users/aidankormanik/Desktop/pbrt-v3/build/Release/pbrt /Users/aidankormanik/Downloads/lighting.pbrt
+  195  /Users/aidankormanik/Desktop/pbrt-v3/build/Release/pbrt /Users/aidankormanik/Downloads/lighting.pbrt
+  196  /Users/aidankormanik/Desktop/pbrt-v3/build/Release/pbrt /Users/aidankormanik/Downloads/lighting.pbrt
+  197  /Users/aidankormanik/Desktop/pbrt-v3/build/Release/pbrt /Users/aidankormanik/Downloads/lighting.pbrt
+  198  /Users/aidankormanik/Desktop/pbrt-v3/build/Release/pbrt /Users/aidankormanik/Downloads/lighting.pbrt
+  199  /Users/aidankormanik/Desktop/pbrt-v3/build/Release/pbrt /Users/aidankormanik/Downloads/lighting.pbrt
+  200  /Users/aidankormanik/Desktop/pbrt-v3/build/Release/pbrt /Users/aidankormanik/Downloads/lighting.pbrt
+  201  /Users/aidankormanik/Downloads/of_v0.11.0_osx_release/projectGenerator/_runMeFirst.command ; exit;
+  202  /Users/aidankormanik/Downloads/of_v20210218_osx_release/projectGenerator/_runMeFirst.command ; exit;
+  203  cd
+  204  cd Desktop
+  205  cd pbrt-v3
+  206  cd build2
+  207  xcodebuild -project "PBRT-V3.xcodeproj" -configuration "Release"
+  208  xcodebuild -project "PBRT-V3.xcodeproj" -configuration "Release"
+  209  /Users/aidankormanik/Desktop/pbrt-v3/build2/Release/pbrt /Users/aidankormanik/Desktop/pbrt-v3/scenes/killeroo-simple.pbrt
+  210  /Users/aidankormanik/Desktop/pbrt-v3/build2/Release/pbrt /Users/aidankormanik/Desktop/pbrt-v3/scenes/raymarchertest.pbrt
+  211  /Users/aidankormanik/Desktop/pbrt-v3/build2/Release/pbrt /Users/aidankormanik/Desktop/pbrt-v3/scenes/raymarchertest.pbrt
+  212  /Users/aidankormanik/Desktop/pbrt-v3/build2/Release/pbrt /Users/aidankormanik/Desktop/pbrt-v3/scenes/raymarchertest.pbrt
+  213  ld
+  214  ls
+  215  /Users/aidankormanik/Desktop/pbrt-v3/build2/Release/pbrt /Users/aidankormanik/Desktop/pbrt-v3/scenes/raymarchertest.pbrt
+  216  /Users/aidankormanik/Desktop/pbrt-v3/build2/Release/pbrt /Users/aidankormanik/Desktop/pbrt-v3/scenes/raymarchertest.pbrt
+  217  /Users/aidankormanik/Desktop/pbrt-v3/build2/Release/pbrt /Users/aidankormanik/Desktop/pbrt-v3/scenes/raymarchertest.pbrt
+  218  ls
+  219  cd Desktop
+  220  cd
+  221  cd Desktop
+  222  cd pbrt-v2
+  223  cd pbrt-v3
+  224  cd build3
+  225  xcodebuild -project "PBRT-V3.xcodeproj" -configuration "Release"
+  226  cd Desktop
+  227  cd pbrt-v3
+  228  cd build4
+  229  /*
+  230      pbrt source code is Copyright(c) 1998-2016
+  231                          Matt Pharr, Greg Humphreys, and Wenzel Jakob.
+  232      This file is part of pbrt.
+  233      Redistribution and use in source and binary forms, with or without
+  234      modification, are permitted provided that the following conditions are
+  235      met:
+  236      - Redistributions of source code must retain the above copyright
+  237        notice, this list of conditions and the following disclaimer.
+  238      - Redistributions in binary form must reproduce the above copyright
+  239        notice, this list of conditions and the following disclaimer in the
+  240        documentation and/or other materials provided with the distribution.
+  241      THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS
+  242      IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED
+  243      TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
+  244      PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+  245      HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+  246      SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+  247      LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+  248      DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+  249      THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+  250      (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+  251      OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+  252   */
+  253  // Modification to Sphere Shape to Implement RayMarching
+  254  // by Kevin M. Smith 3-2-2019
+  255  //
+  256  // shapes/sphere.h*
+  257  namespace pbrt {
+  258  // Sphere Declarations
+  259  class RayMarcher : public Shape {
+  260    public:
+  261      // Sphere Public Methods
+  262      RayMarcher(const Transform *ObjectToWorld, const Transform *WorldToObject,
+  263             bool reverseOrientation, Float radius, Float zMin, Float zMax,
+  264             Float phiMax)
+  265          : Shape(ObjectToWorld, WorldToObject, reverseOrientation),
+  266            radius(radius),
+  267            zMin(Clamp(std::min(zMin, zMax), -radius, radius)),
+  268            zMax(Clamp(std::max(zMin, zMax), -radius, radius)),
+  269            thetaMin(std::acos(Clamp(std::min(zMin, zMax) / radius, -1, 1))),
+  270            thetaMax(std::acos(Clamp(std::max(zMin, zMax) / radius, -1, 1))),
+  271            phiMax(Radians(Clamp(phiMax, 0, 360))) {}
+  272      Bounds3f ObjectBound() const;
+  273      bool Intersect(const Ray &ray, Float *tHit, SurfaceInteraction *isect,
+  274                     bool testAlphaTexture) const;
+  275      Vector3f GetNormalRM(const Point3f &pos, float eps,
+  276                               const Vector3f &defaultNormal) const;
+  277      Float sdf(const Point3f &pos) const;
+  278      Float Area() const;
+  279      Interaction Sample(const Point2f &u, Float *pdf) const;
+  280      Interaction Sample(const Interaction &ref, const Point2f &u,
+  281                         Float *pdf) const;
+  282    private:
+  283      // Sphere Private Data
+  284      const Float radius;
+  285      const Float zMin, zMax;
+  286      const Float thetaMin, thetaMax, phiMax;
+  287  };
+  288  std::shared_ptr<Shape> CreateRayMarcherShape(const Transform *o2w,
+  289                                           const Transform *w2o,
+  290                                           bool reverseOrientation,
+  291                                           const ParamSet &params);
+  292  }  // namespace pbrt
+  293  cd Desktop
+  294  cd pbrt-v3/build4
+  295  ls
+  296  xcodebuild -project "PBRT-V3.xcodeproj" -configuration "Release"
+  297  /Users/aidankormanik/Desktop/pbrt-v3/build4/Release/pbrt /Users/aidankormanik/Desktop/pbrt-v3/scenes/raymarchertest.pbrt
+  298  /Users/aidankormanik/Desktop/pbrt-v3/build4/Release/pbrt /Users/aidankormanik/Desktop/pbrt-v3/scenes/raymarchertest.pbrt
+  299  /Users/aidankormanik/Desktop/pbrt-v3/build4/Release/pbrt /Users/aidankormanik/Desktop/pbrt-v3/scenes/raymarchertest.pbrt
+  300  cd desktop
+  301  cd pbrt-v3/build5
+  302  xcodebuild -project "PBRT-V3.xcodeproj" -configuration "Release"
+  303  /Users/aidankormanik/Desktop/pbrt-v3/build5/Release/pbrt /Users/aidankormanik/Desktop/pbrt-v3/scenes/raymarchertest.pbrt
+  304  /Users/aidankormanik/Desktop/pbrt-v3/build5/Release/pbrt /Users/aidankormanik/Desktop/pbrt-v3/scenes/raymarchertest.pbrt
+  305  cd desktop/pbrt-v3/build6
+  306  xcodebuild -project "PBRT-V3.xcodeproj" -configuration "Release"
+  307  xcodebuild -project "PBRT-V3.xcodeproj" -configuration "Release"
+  308  /Users/aidankormanik/Desktop/pbrt-v3/build6/Release/pbrt /Users/aidankormanik/Desktop/pbrt-v3/scenes/raymarchertest.pbrt
+  309  cd desktop/pbrt-v3/build8
+  310  xcodebuild -project "PBRT-V3.xcodeproj" -configuration "Release"
+  311  xcodebuild -project "PBRT-V3.xcodeproj" -configuration "Release"
+  312  xcodebuild -project "PBRT-V3.xcodeproj" -configuration "Release"
+  313  /Users/aidankormanik/Desktop/pbrt-v3/build8/Release/pbrt /Users/aidankormanik/Desktop/pbrt-v3/scenes/raymarchertest.pbrt
+  314  ssh 12.42.205.104
+  315  kormanik
+  316  student
+  317  racket
+  318  ssh IP_address
+  319  ssh 12.42.205.186
+  320  git --version
+  321  cd /Desktop
+  322  cd Desktop
+  323  mkdir worksheet1
+  324  cd worksheet1
+  325  git init
+  326  touch akormanik.txt
+  327  ls
+  328  git status
+  329  git status
+  330  git add akormanik.txt
+  331  git status
+  332  git status
+  333  git commit -m "This is my first commit"
+  334  git remote add origin https://github.com/apkormanik/worksheet1.git
+  335  git branch -M main
+  336  git push -u origin main
+  337  git remote add origin https://github.com/apkormanik/worksheet1.git
+  338  git branch -M main
+  339  git push -u origin main
+  340  git remote add origin https://github.com/apkormanik/worksheet1.git
+  341  git branch -M main
+  342  git push -u origin main
+  343  git push origin my-new-branch
+  344  git push origin main
+  345  git pull origin master
+  346  git pull origin main
+  347  git log
+  348  history > cmds.log
+  349  ls
+  350  git status
+  351  git comit -m "Commiting history of commands"
+  352  git comit -m "Commiting history of commands"
+  353  git comit -m "Commiting history of commands"
+  354  git commit -m "Committing history of commands"
+  355  ls
+  356  git add cmds.log
+  357  git status
+  358  git commit -m "Committing the history of commands"
+  359  git push origin main
+  360  cd /Desktop
+  361  cd ../Desktop
+  362  history > cmds.log
